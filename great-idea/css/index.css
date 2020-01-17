@@ -218,7 +218,7 @@ nav {
 .box1, .box2, .box3, .box4, .box5, .box6 {
 	box-sizing:border-box;
 	width:45%;
-	height:95vh;
+	height:90vh;
 	line-height:1.5;
 	padding:4%;
 	border:1px solid black;
